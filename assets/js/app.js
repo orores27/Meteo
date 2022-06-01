@@ -1,5 +1,5 @@
 //Clé d'authentification pour se connecter à l'API
-const APIKEY = "659eb6423c655c0f0e67fae273c7bd6a";
+const APIKEY = "9ea212ed9540d19e87803ef4d385a4cb";
 
 //On crée la variable dans laquelle on va stocker nos résultats météo
 let apiResults;
